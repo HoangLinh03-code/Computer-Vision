@@ -1,2 +1,2 @@
-# Th-Gi-c-M-y-T-nh
-This is computer vision project demo
+# Computer Vision project
+This is a computer vision project demo
